@@ -1,3 +1,5 @@
+<img src="http://www.avalaunch.net/qwix/images/mainscreen.jpg"/></img>
+
 Qwix? What is that?
 
 Qwix is a very simple to use XBOX Remote File Management and ISO Creation Tool. That's a pretty complicated description, so let me try again. Qwix lets you do a variety of tasks VERY easily, and right from your PC. Have a bunch of ISO's sitting on your PC that you need to load onto your XBOX? Open up Qwix and use the ISO batch upload tool. Just tell it where your ISOs are, and where you want them to be on the XBOX, and then let it fire. It will automagically extract the ISO's out into properly named folders in your games directory. It pulls the game name from the ISO, and even let's you change it if that isn't what you want it to be called in the games menu.

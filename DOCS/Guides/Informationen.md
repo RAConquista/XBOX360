@@ -1,4 +1,4 @@
-Was ist der JTAG Hack?
+<b>Der JTAG Hack</b>
 
 
 Im Prinzip wird die Methode, die Xbox360 homebrewtauglich zu machen, fälscherlicherweise als JTAG Hack bezeichnet. Ein JTAG Port wird bei diversen elektronischen Geräten normalerweise als eine Art Debugport genutzt, um es z.B. Servicetechnikern zu erleichtern, auf das Gerät zuzugreifen und ggf. Einstellungen zu ändern oder auszulesen. Bei der Xbox360 gibt es einen solchen (physikalischen) Anschluss zwar nicht serienmäßig auf dem Mainboard, allerdings existieren dafür die Ports (also die Lötverbindungen) um eine solche Schnittstelle mit Zusatzhardware zu realisieren. Bei der Xbox360 benutzt man den JTAG Port um auf den NAND (also den internen Flash Speicher des Mainboards) zuzugreifen. Damit besteht die Möglichkeit, den NAND zu lesen, oder auch zu beschreiben.
@@ -9,7 +9,7 @@ Simpel gesagt werden zum Ausnutzen der genannten Schwachstelle im Bootloader ung
 Tiefer möchte ich hier nicht ins Detail gehen. Wer weitere Infos dazu haben möchte, findet diese vermutlich auf Free60.org.
 
 
-Was ist der Reset Glitch Hack?
+<b>Der Reset Glitch Hack</b>
 
 
 Der so genannte Reset Glitch Hack wurde am 28.08.2011 veröffentlicht und u.a. von GliGli und Tiros entwickelt. In der Durchführung unterscheidet er sich grundlegend vom JTAG Hack, die Möglichkeiten sind letztendlich aber die Gleichen. Der Reset Glitch Hack ist, anders als der JTAG Hack, auf der Hardwareebene angesiedelt. In diesem speziellen Fall wird die CPU (also die Hauptrecheneinheit) angegriffen. Das hat einen entscheidenden Vorteil gegenüber dem JTAG Hack, der reinweg auf Softwareebene stattfand: Er lässt sich durch Microsoft nicht nachträglich patchen. Somit spielt die Dashboardversion oder die Revision der Xbox360 eigentlich keine Rolle mehr. Die einzige Ausnahme ist, dass der Hack nur mit HDMI Konsolen funktioniert und somit Xenon Konsolen außenvor bleiben. Alle bisher verkaufen Xbox360 Modelle (ca. 40 Millionen) sind davon betroffen.
@@ -17,7 +17,7 @@ Der so genannte Reset Glitch Hack wurde am 28.08.2011 veröffentlicht und u.a. v
 Um das Sicherheitssystem der Xbox360 zu überwinden, wird der Prozessortakt der CPU beim Bootvorgang verringert. Schnell wird klar, warum Xenon Konsolen hier nicht möglich werden. Am HANA Chip (der kümmert sich um das HDMI Output) wird ein von außen zugänglicher Bus (I2C) genutzt um die Teilregister im Taktgenerator neu zu beschreiben. Während des Runtertaktprozesses wird mit einem CPLD Modul zu einem bestimmten Zeitpunkt ein 20 Nanosekunden dauernder Impuls auf die Resetleitung der CPU gesendet. Dadurch wird allerdings auf unterster Ebene kein Neustart der CPU ausgeführt, sondern lediglich der Resetbefehl gesendet, wodurch sich wiederrum mit etwas Glück ein manipulierter Vergleich von Speicherbereichen (memcmp) erzwingen lässt. Auf dieser Ebene sind die Sicherheitssysteme nicht wirklich aktiv und es kann wie gesagt mit etwas Glück ein modifizierter Bootloader gestartet werden (Xell). 
 
 
-Was genau ist XeLL?
+<b>XeLL</b>
 
 
 XeLL steht für Xenon Linux Loader und wurde bereits 2006 entwickelt. Damals war es noch möglich eine Schwachstelle in den Kernelversionen 4532/4548 auszunutzen. Dies geschah anfangs mit Hilfe des Spiels King Kong. Kurz gesagt handelte es sich um einen Shader Bug, den man mit Hilfe des King Kong Spiels ausnutzen konnte. Um den Hack auszuführen, musste man eine Kopie des King Kong Spiels anfertigen, dort XeLL injezieren und per geflashtem Laufwerk starten. Sobald das Menü von King Kong sichtbar war, lies sich die DVD Lade öffnen, ohne dass das Spiel aus ging. Nun musste man noch ein vorher prepariertes Linux Live Image in die Konsole legen und konnte somit Linux starten. (2006)

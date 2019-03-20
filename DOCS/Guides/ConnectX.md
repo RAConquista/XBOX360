@@ -5,4 +5,4 @@ Sie beiden Dateien müssen in das Plugin Verzeichnis von Aurora kopiert werden u
 <br>
 <b>Beispiel:</b> Hdd1:\Aurora\Plugins\*"
 
-Nun wird die XBOX neu gestartet. 
+Nun wird die XBOX neu gestartet. Anschließend im Aurora Dash zu den Plugins wechaeln und die Informationen 

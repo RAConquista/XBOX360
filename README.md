@@ -7,11 +7,17 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <br>
 <h3>Image Tools & Converter</h3>
 <br>
+<a href=""/><img src=""/></img></a>
+<br>
 <br>
 <h3>Profilbearbeitung</h3>
 <br>
+<a href=""/><img src=""/></img></a>
+<br>
 <br>
 <h3>Dashboards</h3>
+<br>
+<a href=""/><img src=""/></img></a>
 <br>
 <br>
 <h3>Zusatzinhalte</h3>

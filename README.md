@@ -10,7 +10,7 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Image%20Tools/Image%20Browser"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/IMGBROWSER.png"/></img></a></p>
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Image%20Tools/Backup%20Creator"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/BUPCRTR.png"/></img></a></p>
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Image%20Tools/ISO2GOD"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/buttons/ISO2GOD.png"/></img></a></p>
-<p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Image%20Tools/GOD2ISO"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/buttons/GOD2ISO.png"/></img></a></p>
+<p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Image%20Tools/GOD2ISO"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/buttons/GOG2ISO.png"/></img></a></p>
 
 <br>
 <br>

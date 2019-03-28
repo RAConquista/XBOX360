@@ -18,7 +18,7 @@
 <h3>How to install:</h3>
 <br>
 <li>You must have played the game on your console first for these installers to work.</li>
-<br>
+
 <p align="justify"><li>To use any of the installers simply unzip them, then copy the installer folder to your Xbox hard drive and run default.xbe within the folder using your favorite file manager. (You can optionally move this folder to any Games, Application or Emulator folder on your Xbox hard drive and run the program from the dashboard of your choice.)</li></p>
 <li>Follow the prompts in the menu to install the content and game updates.</li>
 <br>

@@ -16,8 +16,7 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <br>
 <h3>Profilbearbeitung</h3>
 <br>
-<a href=""/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/PROEDIT.png"/></img></a>
-<a href=""/><img src=""/></img></a>
+<a href=""/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/exProfileEditor.png"/></img></a>
 <br>
 <br>
 <h3>Dashboards</h3>

@@ -21,8 +21,8 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <br>
 <h3>Dashboards</h3>
 <br>
-<a href=""/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/AD.png"/></img></a>
-<a href=""/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/FSD.png"/></img></a>
+<p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Dashboard/Aurora"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/buttons/AU07.png"/></img></a></p>
+<p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Dashboard/FreeStyle"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/FSD.png"/></img></a></p>
 <br>
 <br>
 <h3>Zusatzinhalte</h3>

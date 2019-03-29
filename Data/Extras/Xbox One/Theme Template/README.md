@@ -8,10 +8,10 @@
 <b>How to set a custom Background on the Xbox One:</b>
 <br>
 
-<li><<ol>Make sure you have the latest build of the Xbox OS available</ol>
-<ol>Make sure you have the latest build of Media player installed</ol>
-<ol>Connect a USB stick to the console/ Connect to a PC through DLNA</ol>
-<ol>Find the source file you wish to use and open it full screen</ol>
-<ol>Hit menu button</ol>
-<ol>Select “Set as Background”</ol></li>
-All Done.
+<ol><li>Make sure you have the latest build of the Xbox OS available</li>
+<li>Make sure you have the latest build of Media player installed</li>
+<li>Connect a USB stick to the console/ Connect to a PC through DLNA</li>
+<li>Find the source file you wish to use and open it full screen</li>
+<li>Hit menu button</li>
+<li>Select “Set as Background”</li></ol>
+<p><b>All Done.</b><p>

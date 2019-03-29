@@ -6,4 +6,7 @@ beherrscht. Hierfür gibt es zahlreiche Anwendungen und die besten davon sind in
 <br>
 <h3>Horizon USB Tool</h3>
 <br>
+<p align="center">
+<img src="https://www.wemod.com/images/views/horizon/horizon-logo-b2fbee6e9f.svg" class="center"></img></p>
 <p></p>
+<b>Horizon ist das wohl vielseitigste USB Programm für die XBOX 360 und dessen Dateisystem. Es lassen sich damit Spielstände auslesen und bearbeiten und anschließend wieder digital Signieren. Andernfalls wäre die Datei für das Gerät nicht mehr lesbar und der Spielstand wäre verloren. Weiterhin ist es möglich Profile zu bearbeiten und damit Erfolge oder Avatar Gegenstände frei zu schalten.</b>

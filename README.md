@@ -24,5 +24,5 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Dashboard/Aurora"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/buttons/AU07.png"/></img></a></p>
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/Dashboard/FreeStyle"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/FSD.png"/></img></a></p>
 <br>
-<br>
-<h3>Zusatzinhalte</h3>
+<h3>USB Drive Tools</h3>
+<p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/USB%20Tools"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/USB.png"/></img></a></p>

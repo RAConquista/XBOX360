@@ -7,7 +7,7 @@
 <br>
 <b>How to set a custom Background on the Xbox One:</b>
 <br>
-
+<p></p>
 <ol><li>Make sure you have the latest build of the Xbox OS available</li>
 <li>Make sure you have the latest build of Media player installed</li>
 <li>Connect a USB stick to the console/ Connect to a PC through DLNA</li>

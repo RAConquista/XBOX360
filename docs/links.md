@@ -7,4 +7,5 @@
 <p><li><a href="https://digiex.net/attachments/exiso-zip.7467/"/>exISO Image Pack/Extract Tool</a></li></p>
 <p><li><a href="https://digiex.net/attachments/fce360-v0-6-rar.6464/"/>FCE360 (NES Emulator)</a></li></p>
 <p><li><a href="http://download.digiex.net/Consoles/Xbox360/Jtag/EasyFreeBOOT12611GUI.zip"/>Easy freeBoot 12611 GUI</a></li></p>
+<p><li><a href="https://digiex.net/attachments/gx-xgd-extract-00-10-10-zip.11995/"/>GX XGD Extract & FTP Client</a></li></p>
 

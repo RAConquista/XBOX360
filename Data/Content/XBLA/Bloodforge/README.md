@@ -1,4 +1,4 @@
-<p align="center"> <img src=https://upload.digiex.net/files/4b709culws5qkqq6tp7t.jpg""></img>
+<p align="center"> <img src="https://upload.digiex.net/files/4b709culws5qkqq6tp7t.jpg"></img>
 <br>
 <b>About the Game:</b>
 <br>

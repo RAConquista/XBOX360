@@ -1,4 +1,4 @@
-<p align="center"> <img src="http://download.xbox.com/content/images/66acd000-77fe-1000-9115-d80258410aad/1033/boxartlg.jpg"></img></p>
+<p align="center"> <img src="http://download.xbox.com/content/"></img></p>
 <br>
 <br>
 <b>About the Game:</b>

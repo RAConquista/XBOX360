@@ -18,19 +18,23 @@ Trials Evolution was released just yesterday (18th April 2012) and now it is fin
 <b>Download Link:</b>
 <br>
 <br>
-<a href="">Trials Evolution Xbox 360 Arcade Trial Download</a>
+<a href="http://download.digiex.net/Consoles/Xbox360/Arcade-games/TrialsEvolutionTrial.zip">Trials Evolution Xbox 360 Arcade Trial Download</a>
 <br>
 <br>
 <b>Extra:<b>
-
+<br>
+<br>
 Free Unlockable Gamer Picture
-
-How To Transfer to Your Xbox 360:
-
-1 - Extract the demo from the 7zip file.
-2 - Run USBXTAFGUI, load your Xbox 360 USB.
-3 - Inject folder.
-4 - Let it transfer to the USB.
-5 - Plug it to your 360 console.
-6 - Copy or move the demo to the HDD.
-7 - Play and enjoy!
+<br>
+<br>
+<b>How To Transfer to Your Xbox 360:<b>
+<br>
+<br>
+<li>
+<olm>Extract the demo from the 7zip file.</olm>
+<olm>Run USBXTAFGUI, load your Xbox 360 USB.</olm>
+<olm>Inject folder.</olm>
+<olm>Let it transfer to the USB.</olm>
+<olm>Plug it to your 360 console.</olm>
+<olm>Copy or move the demo to the HDD.</olm>
+<olm>Play and enjoy!</olm></li>

@@ -37,4 +37,4 @@ Free Unlockable Gamer Picture
 <ol>Let it transfer to the USB.</ol>
 <ol>Plug it to your 360 console.</ol>
 <ol>Copy or move the demo to the HDD.</ol>
-<ol>Play and enjoy!</olm></li>
+<ol>Play and enjoy!</ol></li>

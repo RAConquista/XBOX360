@@ -1,5 +1,4 @@
-<p align="center"> <img src="http://download.xbox.com/content/"></img></p>
-<br>
+<p align="center"> <img src=https://upload.digiex.net/files/4b709culws5qkqq6tp7t.jpg""></img>
 <br>
 <b>About the Game:</b>
 <br>

@@ -9,3 +9,7 @@
 <p><li><a href="http://download.digiex.net/Consoles/Xbox360/Jtag/EasyFreeBOOT12611GUI.zip"/>Easy freeBoot 12611 GUI</a></li></p>
 <p><li><a href="https://digiex.net/attachments/gx-xgd-extract-00-10-10-zip.11995/"/>GX XGD Extract & FTP Client</a></li></p>
 
+
+https://downloadgamexbox.com/?s=Fighters+Uncaged
+
+https://downloadgamexbox.com/?s=Sonic+Free+Riders

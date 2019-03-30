@@ -33,8 +33,9 @@ Free Unlockable Gamer Picture
 <ol>
 <li>Extract the demo from the 7zip file.</li>
 <li>Run <a href="https://github.com/RAConquista/XBOX360/blob/master/Data/USB%20Tools/USBXTAF/USBXTAFGUI_v45.zip?raw=true,">USBXTAFGUI</a> load your Xbox 360 USB.</li>
-<li>Inject folder.</ol>
+<li>Inject folder.</li>
 <li>Let it transfer to the USB.</li>
 <li>Plug it to your 360 console.</li>
 <li>Copy or move the demo to the HDD.</li>
-<li>Play and enjoy!</li></ol>
+<li>Play and enjoy!</li>
+</ol>

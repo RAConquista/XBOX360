@@ -1,4 +1,4 @@
-<p align="center"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/EoF.png" width="355px"/></img>
+<p align="center"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/EoF.png" width="355px"/></img></p>
 <br>
 <p>Editor On Fire ist ein Programm zum erstellen von Inhalten zu Musik Spielen wie Rock Band und anderen Titeln. </p>
 
@@ -11,3 +11,7 @@ If you're using Linux or if you want to experiment with the source code yourself
 https://github.com/raynebc/editor-on-fire/tree/wiki
 
 MP3 decoding and OGG encoding capabilities will require LAME and Vorbis Tools to be installed manually, otherwise EOF will warn that applicable features are disabled.</p>
+
+
+<p align="center"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/dl_btn.png" width="355px"/></img>
+

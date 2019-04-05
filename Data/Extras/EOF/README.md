@@ -14,5 +14,5 @@ MP3 decoding and OGG encoding capabilities will require LAME and Vorbis Tools to
 <br>
 <br>
 <br>
-<p align="center"/><a href="https://github.com/RAConquista/XBOX360/blob/master/Data/Extras/EOF/EOF.BUILD1.8.zip?raw=true"></a><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/blank.png"/></img>
+<p align="center"/><a href="https://github.com/RAConquista/XBOX360/blob/master/Data/Extras/EOF/EOF.BUILD1.8.zip?raw=true"><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/docs/images/blank.png"/></img><a/>
 

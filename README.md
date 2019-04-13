@@ -26,3 +26,6 @@ Eine Sammlung von Tools, Benutzeroberflächen und vielen mehr für Geräte mit <
 <br>
 <h3>USB Drive Tools</h3>
 <p><a href="https://github.com/RAConquista/XBOX360/tree/master/Data/USB%20Tools"/><img src="https://raw.githubusercontent.com/RAConquista/XBOX360/master/DOCS/Images/USB.png"/></img></a></p>
+<br>
+<h3>Content | Inhalte</h3>
+<p><a href="https://github.com/RAConquista/XBOX360/tree/master/DOCS/Content/Xbox%20Classic">XBOX CLASSIC DLCs</a></p>
